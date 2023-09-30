@@ -12839,7 +12839,7 @@ body {
 }
 
 a {
-  color: var(--cnvs-link-color);
+  color: #ffffff;
 }
 a:not(.btn-link):not(.text-decoration-underline):not(.more-link) {
   text-decoration: none !important;
